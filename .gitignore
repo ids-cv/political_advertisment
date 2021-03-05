@@ -1,3 +1,9 @@
+# Project related
+output/
+pretrained_models/
+audio_example.mp3
+politicalAdv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

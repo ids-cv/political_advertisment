@@ -1,0 +1,5 @@
+ffmpeg-python
+spleeter
+jupyter
+selenium
+opencv-python
